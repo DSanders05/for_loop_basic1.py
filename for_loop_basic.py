@@ -7,7 +7,7 @@ for i in range(5,1001, 5):
     print(i)
 
 #3. Counting, the Dojo Way- Print integers 1 to 1000. If divisible by 5, print "Coding" instead. If divisible by 10, print "Coding Dojo".
-for i in range(101):
+for i in range(1001):
     if (i%10 == 0):
         print("Coding Dojo")
     elif (i%5 == 0):
